@@ -1,0 +1,111 @@
+html{
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
+#id{
+    text-indent: 30px;
+}
+
+.rn{
+    color: red;
+}
+
+body{
+    padding-top: 13px;
+}
+
+div, box{
+
+    width:1300px;
+    height: 570px;
+    padding:0px;
+    border: 2px solid black;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+p{
+    margin: 6px;
+}
+.sgi{
+    background-color: rgba(72, 116, 182, 0.582);
+    text-align: center;
+    width: 1298px;
+    height: 50px;
+    padding:1px;
+    border-top: 1px black;
+    margin: 0px;
+    margin-right: 0px;
+    border-left: none;
+    border-bottom: none;
+}
+.info{
+    text-indent: 20px;
+    width: 100%;
+    height: 100px;
+    padding:1px;
+    border-left: none;
+    border-right: none;
+}
+.menu{
+    background-color: rgba(72, 116, 182, 0.582);
+    width: 1298px;
+    height: 50px;
+    padding:1px;
+    border-top: 1px black;
+    margin: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border-left: none;
+    border-right: 2px;
+    border-bottom: none;
+}
+.code{
+    width: 20%;
+    height: 50px;
+    border: none;
+    text-align: left;
+}
+.subject{
+    width: 19%;
+    height: 50px;
+    border: none;
+    text-align: left;
+}
+.unit{
+    width: 15%;
+    height: 50px;
+    border: none;
+    text-align: left;
+    margin: 1;
+    padding-top: 2px;;
+}
+
+.section{
+    width: 6%;
+    height: 50px;
+    border: none;
+    text-align: left;
+}
+.sched{
+    width: 20%;
+    height: 50px;
+    border: none;
+    text-align: center;
+}
+.faculty{
+    width: 20%;
+    height: 50px;
+    border: none;
+    text-align: center;
+}
+.data{
+    width:100%;
+    height:360px;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+}
